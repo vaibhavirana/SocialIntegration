@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "555739803890",
+    "project_id": "principal-storm-132406"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555739803890:android:1ef01259854c6b78",
+        "android_client_info": {
+          "package_name": "com.webmyne.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555739803890-e6je8k1tn94gendka9t2sj1d84qh358j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webmyne.sample",
+            "certificate_hash": "24D2DD82B765404F2F2A5492FB8217FA1EA92F44"
+          }
+        },
+        {
+          "client_id": "555739803890-csvqad26a8bhsg5l6hs1bh1gef2dgk74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9DzuxMNAFIPzSxuSHg_S5pMtCS1aeZmQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

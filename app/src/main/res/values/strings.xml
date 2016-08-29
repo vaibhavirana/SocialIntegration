@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SocialIntegration</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="facebook_app_id">1777031199199238</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+</resources>
